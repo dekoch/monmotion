@@ -1,0 +1,10 @@
+# bcm2710
+/files_target/brcm2708/bcm2710/etc/dropbear/
+/files_target/brcm2708/bcm2710/etc/opkg/keys/
+# bcm2711
+/files_target/brcm2708/bcm2711/etc/dropbear/
+/files_target/brcm2708/bcm2711/etc/opkg/keys/
+# openwrt
+/openwrt/master/
+/openwrt/18.06/
+/openwrt/19.07/
